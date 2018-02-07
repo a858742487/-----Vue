@@ -1,21 +1,7 @@
 
 ##### 运行截图
 
-![](http://gf95.cn/img/chedui/jobjob.png)
-
-
-
-
-## 在线地址
-
-需打开chrome浏览器的手机模拟功能，来获得比较好的浏览效果
-
-[demo地址](http://gf95.cn/)
-
-手机可扫码
-
-![](http://gf95.cn/img/chedui/jobjob.png)
-
+![](http://gf95.cn/img/chedui/guangqi3.jpg)
 
 
 ## Build Setup
