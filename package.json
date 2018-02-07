@@ -2,11 +2,11 @@
   "name": "zhihudaily-vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "yatessss <897969073@qq.com>",
+  "author": "a858742487 <858742487@qq.com>",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/yatessss/zhihudaily-vue.git"
+    "url": "https://github.com/a858742487/Liuguofu-Zhihu-Vue.git"
   },
   "scripts": {
     "dev": "node build/dev-server.js",
