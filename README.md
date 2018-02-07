@@ -1,7 +1,7 @@
 
 #### 运行截图
 
-![](http://gf95.cn/blog_2016_07_picQQ20160708-0.png)
+![](http://gf95.cn/img/chedui/jobjob.png)
 
 
 
@@ -14,7 +14,7 @@
 
 手机可扫码
 
-![](http://gf95.cn/blog_2016_07_picQQ20160708-8.png)
+![](http://gf95.cn/img/chedui/jobjob.png)
 
 
 
