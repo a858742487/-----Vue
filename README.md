@@ -1,7 +1,7 @@
 
 ##### 运行截图
 
-![](http://gf95.cn/img/chedui/guangqi3.jpg)
+![](http://gf95.cn/img/chedui/jobjob.png)
 
 
 ## Build Setup
