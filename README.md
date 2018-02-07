@@ -24,25 +24,7 @@ npm run build
 
 ```
 
-**开发环境可以使用allow-control-allow-origin这个插件进行跨域~**
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-## Dependencies
-
-```js
-"dependencies": {
-    "babel-runtime": "^6.0.0",
-    "fastclick": "^1.0.6",
-    "lib-flexible": "^0.3.2",
-    "swiper": "^3.3.1",
-    "vue": "^1.0.21",
-    "vue-resource": "^0.7.0",
-    "vue-router": "^0.7.13"
-  }
 ```
-
 
 MIT license.
 
