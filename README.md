@@ -1,9 +1,5 @@
-# 刘国富-vue
 
-> A Vue.js project
-
-
-## 运行截图
+#### 运行截图
 
 ![](http://gf95.cn/blog_2016_07_picQQ20160708-0.png)
 
@@ -20,6 +16,33 @@
 
 ![](http://gf95.cn/blog_2016_07_picQQ20160708-8.png)
 
+
+
+## Build Setup
+
+``` bash
+# 克隆项目
+git clone https://github.com/a858742487/Liuguofu-Zhihu-Vue.git
+
+# 安装依赖
+npm install
+
+# 建议不要用cnpm安装 会有各种诡异的bug 可以通过如下操作解决 npm 下载速度慢的问题
+npm install --registry=https://registry.npm.taobao.org
+
+# 运行 localhost:8080
+npm run dev
+
+# 打包
+npm run build
+
+```
+
+**开发环境可以使用allow-control-allow-origin这个插件进行跨域~**
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
 ## Dependencies
 
 ```js
@@ -34,32 +57,6 @@
   }
 ```
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-**开发环境可以使用allow-control-allow-origin这个插件进行跨域~**
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-## License
 
 MIT license.
 
