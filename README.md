@@ -16,7 +16,7 @@ npm install
 # 建议不要用cnpm安装 会有各种诡异的bug 可以通过如下操作解决 npm 下载速度慢的问题
 npm install --registry=https://registry.npm.taobao.org
 
-# 运行 localhost:8080
+# 运行 localhost:8080    
 npm run dev
 
 # 打包
@@ -34,4 +34,4 @@ MIT license.
 
 本项目所有文字图片等稿件内容均由 [知乎](https://www.zhihu.com/) 提供，获取与共享之行为或有侵犯知乎权益的嫌疑。若被告知需停止共享与使用，本人会及时删除整个项目。
 
-请您了解相关情况，并遵守知乎协议。
+请您了解相关情况，并遵守知乎协议。   
